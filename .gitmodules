@@ -1,0 +1,6 @@
+[submodule "weezgrove-backend"]
+	path = weezgrove-backend
+	url = https://github.com/NotTheCrocHunter/weezgrove-backend.git
+[submodule "weezgrove-frontend"]
+	path = weezgrove-frontend
+	url = https://github.com/NotTheCrocHunter/weezgrove-frontend.git
